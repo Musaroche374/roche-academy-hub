@@ -1,0 +1,8 @@
+{
+  "name": "Roche Academy - Science, Math & Geography Hub",
+  "description": "From ABC to PhD - Science, Math & World Made Simple. Tanzania's premier STEM and Geography learning hub with interactive RocheLab, RocheMaps, NECTA & Cambridge past papers, and offline PDF notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
