@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: "/roche-academy-hub/",
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
